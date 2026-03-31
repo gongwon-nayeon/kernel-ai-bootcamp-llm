@@ -3,7 +3,7 @@
 Python version: 3.13.5
 
 ```
-📦kernel-ai-llm
+📦kernel-ai-bootcamp-llm
  ┣ 📂Day1
  ┃ ┣ 📜01_langchain_llm_basics.ipynb
  ┃ ┣ 📜02_langgraph_essentials.ipynb
